@@ -7,7 +7,7 @@ The user is to interact with the digital calculator as designed by clicking on r
 The calculator will display the results of basic mathematical calculations upon valid input from the user.
 
 ## Set Up
-To demo this application you may visit the [link](https://ramvilsil.github.io/js-calculator/) in this GitHub's about section for this repository.
+To demo this application you may visit the [link](https://ramvilsil.github.io/js-calculator/) in GitHub's about section for this repository.
 
 To run this application on your computer clone the repository to your local storage. 
 Then browse through the repository's contents and locate the "[index.html](https://github.com/ramvilsil/js-calculator/blob/main/docs/index.html)" file.
